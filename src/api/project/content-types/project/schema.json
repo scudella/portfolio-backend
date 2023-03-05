@@ -48,7 +48,7 @@
       "repeatable": true,
       "component": "description.stack-item"
     },
-    "PrintScreen": {
+    "printScreen": {
       "type": "media",
       "multiple": false,
       "required": true,
